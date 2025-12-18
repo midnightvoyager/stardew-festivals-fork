@@ -119,6 +119,15 @@ const eggfestival_setup_2_sve = [
         "tileX": 10,
         "tileY": 65
     },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 43,
+        "tileY": 72
+    },
     {
         "displayName": "Shadowheart",
         "internalID": "Shadowheart",

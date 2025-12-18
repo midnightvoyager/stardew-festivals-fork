@@ -1877,7 +1877,7 @@ const eggfestival_setup_1_vanilla = [
         "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
         "modDisplayName": "The Fishmonger - Custom NPC",
         "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
-        "tileX": 42,
+        "tileX": 43,
         "tileY": 72
     },
     {

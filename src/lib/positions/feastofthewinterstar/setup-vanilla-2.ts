@@ -316,6 +316,15 @@ const feastofthewinterstar_setup_2_vanilla = [
             "tileX": 16,
             "tileY": 55
         },
+		{
+            "displayName": "Constance",
+            "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+            "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+            "modDisplayName": "The Fishmonger - Custom NPC",
+            "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+            "tileX": 34,
+            "tileY": 57
+        },
         {
             "displayName": "Mora",
             "internalID": "APTMora",

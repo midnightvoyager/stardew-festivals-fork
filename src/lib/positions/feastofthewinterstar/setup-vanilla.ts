@@ -1922,7 +1922,7 @@ const feastofthewinterstar_setup_1_vanilla = [
             "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
             "modDisplayName": "The Fishmonger - Custom NPC",
             "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
-            "tileX": 33,
+            "tileX": 34,
             "tileY": 57
         },
         {

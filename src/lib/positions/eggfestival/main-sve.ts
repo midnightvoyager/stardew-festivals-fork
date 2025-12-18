@@ -1676,6 +1676,15 @@ const eggfestival_main_1_sve = [
         "tileX": 31,
         "tileY": 75
     },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 37,
+        "tileY": 68
+    },
     {
         "displayName": "Peeta",
         "internalID": "Peeta",

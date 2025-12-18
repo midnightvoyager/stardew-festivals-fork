@@ -92,6 +92,33 @@ const flowerdance_main_2_sve = supplement([
         "tileX": 6,
         "tileY": 20
     },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 14,
+        "tileY": 33
+    },
+{
+        "displayName": "Caitriona",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_PirateLadCaitrionaOFlannagain",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_PirateLadCaitrionaOFlannagain.png",
+        "tileX": 23,
+        "tileY": 41
+    },
+	{
+        "displayName": "Barnabas",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_SeaDudeBarnabas",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_SeaDudeBarnabas.png",
+        "tileX": 24,
+        "tileY": 41
+    },
     {
         "displayName": "Arnell",
         "internalID": "Arnell",

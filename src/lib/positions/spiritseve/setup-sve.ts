@@ -65,6 +65,15 @@ const spiriteve_setup_1_sve = supplement([
             "tileX": 37,
             "tileY": 31
         },
+		{
+            "displayName": "Constance",
+            "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+            "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+            "modDisplayName": "The Fishmonger - Custom NPC",
+            "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+            "tileX": 12,
+            "tileY": 52
+        },
         {
             "displayName": "Mora",
             "internalID": "APTMora",

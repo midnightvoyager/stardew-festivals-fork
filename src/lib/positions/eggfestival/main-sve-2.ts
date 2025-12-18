@@ -1171,7 +1171,16 @@ const eggfestival_main_2_sve = [
         "image": "/sprites/vickylchq.Lumen_Lumen.png",
         "tileX": 21,
         "tileY": 62
-    }
+    },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 37,
+        "tileY": 68
+    },
 ]
 
 export default supplement(eggfestival_main_2_sve, eggfestival_main_2_vanilla)

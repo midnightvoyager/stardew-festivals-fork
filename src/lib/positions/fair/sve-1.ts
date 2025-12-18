@@ -20,6 +20,15 @@ const fair_1_sve = supplement([
         "tileX": 49,
         "tileY": 32
     },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 33,
+        "tileY": 89
+    },
     {
         "displayName": "Trace",
         "internalID": "TraceV",
