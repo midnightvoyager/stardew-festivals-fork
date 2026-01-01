@@ -20,7 +20,7 @@ const moonlightjellies_setup_2_sve = supplement([
         "tileX": 25,
         "tileY": 36
     },
-	
+	{
         "displayName": "Constance",
         "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
         "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
