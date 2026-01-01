@@ -1904,7 +1904,7 @@ const moonlightjellies_setup_1_vanilla = [
         "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
         "modDisplayName": "The Fishmonger - Custom NPC",
         "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
-        "tileX": 34,
+        "tileX": 40,
         "tileY": 36
     },
     {

@@ -21,6 +21,15 @@ const feastofthewinterstar_setup_2_sve = supplement([
             "tileX": 23,
             "tileY": 68
         },
+		{
+            "displayName": "Constance",
+            "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+            "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+            "modDisplayName": "The Fishmonger - Custom NPC",
+            "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+            "tileX": 34,
+            "tileY": 57
+        },
         {
             "displayName": "Ashida",
             "internalID": "APTAshida",

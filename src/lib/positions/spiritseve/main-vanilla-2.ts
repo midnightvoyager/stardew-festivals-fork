@@ -18,6 +18,15 @@ const spiriteve_main_2_vanilla = [
             "tileX": 18,
             "tileY": 24
         },
+		{
+            "displayName": "Constance",
+            "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+            "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+            "modDisplayName": "The Fishmonger - Custom NPC",
+            "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+            "tileX": 12,
+            "tileY": 53
+        },
         {
             "displayName": "Quinn",
             "internalID": "Quinn",

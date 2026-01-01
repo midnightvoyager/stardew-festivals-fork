@@ -1682,6 +1682,24 @@ const flowerdance_main_1_vanilla = [
         "tileX": 12,
         "tileY": 21
     },
+	{
+        "displayName": "Caitriona",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_PirateLadCaitrionaOFlannagain",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_PirateLadCaitrionaOFlannagain.png",
+        "tileX": 23,
+        "tileY": 41
+    },
+	{
+        "displayName": "Barnabas",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_SeaDudeBarnabas",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_SeaDudeBarnabas.png",
+        "tileX": 22,
+        "tileY": 41
+    },
     {
         "displayName": "Peeta",
         "internalID": "Peeta",

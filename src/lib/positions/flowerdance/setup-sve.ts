@@ -56,6 +56,33 @@ const flowerdance_setup_1_sve = supplement([
         "tileX": 24,
         "tileY": 48
     },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 5,
+        "tileY": 41
+    },
+	{
+        "displayName": "Caitriona",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_PirateLadCaitrionaOFlannagain",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_PirateLadCaitrionaOFlannagain.png",
+        "tileX": 8,
+        "tileY": 23
+    },
+	{
+        "displayName": "Barnabas",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_SeaDudeBarnabas",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_SeaDudeBarnabas.png",
+        "tileX": 31,
+        "tileY": 38
+    },
     {
         "displayName": "Kenzie",
         "internalID": "Kenzie",

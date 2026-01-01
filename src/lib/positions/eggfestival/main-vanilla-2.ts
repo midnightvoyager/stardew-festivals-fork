@@ -7,7 +7,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/TraceV.png",
         "tileX": 26,
         "tileY": 65
-    },
+	},
     {
         "displayName": "Aymeric",
         "internalID": "Aymeric",
@@ -16,7 +16,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Aymeric.png",
         "tileX": 25,
         "tileY": 62
-    },
+	},
     {
         "displayName": "Magpie",
         "internalID": "Magpie",
@@ -25,7 +25,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Magpie.png",
         "tileX": 37,
         "tileY": 61
-    },
+	},
     {
         "displayName": "Ashida",
         "internalID": "APTAshida",
@@ -34,7 +34,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/APTAshida.png",
         "tileX": 21,
         "tileY": 71
-    },
+	},
     {
         "displayName": "Marcus",
         "internalID": "APTMarcus",
@@ -43,7 +43,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/APTMarcus.png",
         "tileX": 22,
         "tileY": 69
-    },
+	},
     {
         "displayName": "Mora",
         "internalID": "APTMora",
@@ -52,7 +52,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/APTMora.png",
         "tileX": 22,
         "tileY": 70
-    },
+	},
     {
         "displayName": "Nora",
         "internalID": "Nora",
@@ -61,7 +61,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Nora.png",
         "tileX": 21,
         "tileY": 65
-    },
+	},
     {
         "displayName": "Gale",
         "internalID": "30888_Gale",
@@ -70,7 +70,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/30888_Gale.png",
         "tileX": 36,
         "tileY": 62
-    },
+	},
     {
         "displayName": "Arnell",
         "internalID": "Arnell",
@@ -79,7 +79,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Arnell.png",
         "tileX": 19,
         "tileY": 70
-    },
+	},
     {
         "displayName": "Emmeline",
         "internalID": "Emmeline",
@@ -88,7 +88,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Emmeline.png",
         "tileX": 26,
         "tileY": 73
-    },
+	},
     {
         "displayName": "Halsin",
         "internalID": "Halsin",
@@ -97,7 +97,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Halsin.png",
         "tileX": 24,
         "tileY": 62
-    },
+	},
     {
         "displayName": "Laezel",
         "internalID": "Laezel",
@@ -106,7 +106,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Laezel.png",
         "tileX": 35,
         "tileY": 62
-    },
+	},
     {
         "displayName": "Shadowheart",
         "internalID": "Shadowheart",
@@ -115,7 +115,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Shadowheart.png",
         "tileX": 25,
         "tileY": 73
-    },
+	},
     {
         "displayName": "Daulton",
         "internalID": "Daulton",
@@ -124,7 +124,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Daulton.png",
         "tileX": 16,
         "tileY": 59
-    },
+	},
     {
         "displayName": "Maple",
         "internalID": "Maple",
@@ -133,7 +133,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Maple.png",
         "tileX": 18,
         "tileY": 59
-    },
+	},
     {
         "displayName": "Alune",
         "internalID": "Alune",
@@ -142,7 +142,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Alune.png",
         "tileX": 37,
         "tileY": 61
-    },
+	},
     {
         "displayName": "Lorence",
         "internalID": "Lorence",
@@ -151,7 +151,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Lorence.png",
         "tileX": 36,
         "tileY": 69
-    },
+	},
     {
         "displayName": "Satoru",
         "internalID": "Satoru",
@@ -160,7 +160,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Satoru.png",
         "tileX": 34,
         "tileY": 73
-    },
+	},
     {
         "displayName": "Belos",
         "internalID": "Belos",
@@ -169,7 +169,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Belos.png",
         "tileX": 25,
         "tileY": 61
-    },
+	},
     {
         "displayName": "OpenFire",
         "internalID": "OpenFire",
@@ -178,7 +178,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/OpenFire.png",
         "tileX": 53,
         "tileY": 105
-    },
+	},
     {
         "displayName": "Pauline",
         "internalID": "Pauline",
@@ -187,7 +187,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Pauline.png",
         "tileX": 24,
         "tileY": 66
-    },
+	},
     {
         "displayName": "Toshinori",
         "internalID": "Toshinori",
@@ -196,7 +196,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Toshinori.png",
         "tileX": 36,
         "tileY": 69
-    },
+	},
     {
         "displayName": "Goldenglow",
         "internalID": "Goldenglow",
@@ -205,7 +205,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Goldenglow.png",
         "tileX": 35,
         "tileY": 62
-    },
+	},
     {
         "displayName": "GetoSuguru",
         "internalID": "GetoSuguru",
@@ -214,7 +214,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/GetoSuguru.png",
         "tileX": 41,
         "tileY": 55
-    },
+	},
     {
         "displayName": "Laila",
         "internalID": "Laila",
@@ -223,7 +223,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Laila.png",
         "tileX": 21,
         "tileY": 61
-    },
+	},
     {
         "displayName": "Henry",
         "internalID": "Henry",
@@ -232,7 +232,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Henry.png",
         "tileX": 22,
         "tileY": 71
-    },
+	},
     {
         "displayName": "Mia",
         "internalID": "Mia",
@@ -241,7 +241,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Mia.png",
         "tileX": 22,
         "tileY": 72
-    },
+	},
     {
         "displayName": "Sterling",
         "internalID": "Sterling",
@@ -250,7 +250,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Sterling.png",
         "tileX": 23,
         "tileY": 72
-    },
+	},
     {
         "displayName": "Lacey",
         "internalID": "ichortower.HatMouseLacey_Lacey",
@@ -259,7 +259,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/ichortower.HatMouseLacey_Lacey.png",
         "tileX": 34,
         "tileY": 73
-    },
+	},
     {
         "displayName": "Jiu",
         "internalID": "Jiu",
@@ -268,7 +268,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Jiu.png",
         "tileX": 27,
         "tileY": 59
-    },
+	},
     {
         "displayName": "Quinn",
         "internalID": "Quinn",
@@ -277,7 +277,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Quinn.png",
         "tileX": 34,
         "tileY": 64
-    },
+	},
     {
         "displayName": "Eyjafjalla",
         "internalID": "Eyjafjalla",
@@ -286,7 +286,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Eyjafjalla.png",
         "tileX": 25,
         "tileY": 60
-    },
+	},
     {
         "displayName": "Matthew",
         "internalID": "Matthew",
@@ -295,7 +295,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Matthew.png",
         "tileX": 34,
         "tileY": 61
-    },
+	},
     {
         "displayName": "Nagito",
         "internalID": "Nagito",
@@ -304,7 +304,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Nagito.png",
         "tileX": 31,
         "tileY": 74
-    },
+	},
     {
         "displayName": "Beatrice",
         "internalID": "Beatrice",
@@ -313,7 +313,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Beatrice.png",
         "tileX": 36,
         "tileY": 72
-    },
+	},
     {
         "displayName": "Eloise",
         "internalID": "Eloise",
@@ -322,7 +322,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Eloise.png",
         "tileX": 35,
         "tileY": 62
-    },
+	},
     {
         "displayName": "Jacob",
         "internalID": "Jacob",
@@ -331,7 +331,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Jacob.png",
         "tileX": 36,
         "tileY": 62
-    },
+	},
     {
         "displayName": "Rosa",
         "internalID": "Rosa",
@@ -340,7 +340,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Rosa.png",
         "tileX": 35,
         "tileY": 70
-    },
+	},
     {
         "displayName": "Jessie",
         "internalID": "Jessie",
@@ -349,7 +349,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Jessie.png",
         "tileX": 18,
         "tileY": 58
-    },
+	},
     {
         "displayName": "Juliet",
         "internalID": "Juliet",
@@ -358,7 +358,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Juliet.png",
         "tileX": 36,
         "tileY": 69
-    },
+	},
     {
         "displayName": "MisterGinger",
         "internalID": "MisterGinger",
@@ -367,7 +367,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/MisterGinger.png",
         "tileX": 47,
         "tileY": 71
-    },
+	},
     {
         "displayName": "Xiaoming",
         "internalID": "RedPandaBazaar_ChenXiaoMing",
@@ -376,7 +376,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/RedPandaBazaar_ChenXiaoMing.png",
         "tileX": 16,
         "tileY": 54
-    },
+	},
     {
         "displayName": "QingFeng",
         "internalID": "RedPandaBazaar_LiQingFeng",
@@ -385,7 +385,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/RedPandaBazaar_LiQingFeng.png",
         "tileX": 17,
         "tileY": 54
-    },
+	},
     {
         "displayName": "Erwin",
         "internalID": "Erwin",
@@ -394,7 +394,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Erwin.png",
         "tileX": 21,
         "tileY": 62
-    },
+	},
     {
         "displayName": "Levi",
         "internalID": "Levi",
@@ -403,7 +403,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Levi.png",
         "tileX": 22,
         "tileY": 61
-    },
+	},
     {
         "displayName": "BuwangYu",
         "internalID": "BuwangYu",
@@ -412,7 +412,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/BuwangYu.png",
         "tileX": 19,
         "tileY": 70
-    },
+	},
     {
         "displayName": "Figg",
         "internalID": "Figg",
@@ -421,7 +421,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Figg.png",
         "tileX": 30,
         "tileY": 76
-    },
+	},
     {
         "displayName": "Sigurd",
         "internalID": "MadDog.HashtagBearFam.Sigurd",
@@ -430,7 +430,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/MadDog.HashtagBearFam.Sigurd.png",
         "tileX": 52,
         "tileY": 76
-    },
+	},
     {
         "displayName": "Sondra",
         "internalID": "MadDog.HashtagBearFam.Sondra",
@@ -439,7 +439,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/MadDog.HashtagBearFam.Sondra.png",
         "tileX": 51,
         "tileY": 76
-    },
+	},
     {
         "displayName": "Carnelian",
         "internalID": "Carnelian",
@@ -448,7 +448,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Carnelian.png",
         "tileX": 16,
         "tileY": 59
-    },
+	},
     {
         "displayName": "Shiko",
         "internalID": "Shiko",
@@ -457,7 +457,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Shiko.png",
         "tileX": 36,
         "tileY": 71
-    },
+	},
     {
         "displayName": "Reyla",
         "internalID": "RaffieJohn.Reyla",
@@ -466,7 +466,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/RaffieJohn.Reyla.png",
         "tileX": 26,
         "tileY": 67
-    },
+	},
     {
         "displayName": "Aguar",
         "internalID": "Aguar",
@@ -475,7 +475,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Aguar.png",
         "tileX": 21,
         "tileY": 27
-    },
+	},
     {
         "displayName": "Alissa",
         "internalID": "Alissa",
@@ -484,7 +484,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Alissa.png",
         "tileX": 42,
         "tileY": 28
-    },
+	},
     {
         "displayName": "Anton",
         "internalID": "Anton",
@@ -493,7 +493,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Anton.png",
         "tileX": 11,
         "tileY": 25
-    },
+	},
     {
         "displayName": "Ariah",
         "internalID": "Ariah",
@@ -502,7 +502,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Ariah.png",
         "tileX": 20,
         "tileY": 34
-    },
+	},
     {
         "displayName": "Bert",
         "internalID": "Bert",
@@ -511,7 +511,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Bert.png",
         "tileX": 31,
         "tileY": 25
-    },
+	},
     {
         "displayName": "Blair",
         "internalID": "Blair",
@@ -520,7 +520,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Blair.png",
         "tileX": 41,
         "tileY": 36
-    },
+	},
     {
         "displayName": "Carmen",
         "internalID": "Carmen",
@@ -529,7 +529,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Carmen.png",
         "tileX": 31,
         "tileY": 33
-    },
+	},
     {
         "displayName": "Corine",
         "internalID": "Corine",
@@ -538,7 +538,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Corine.png",
         "tileX": 25,
         "tileY": 22
-    },
+	},
     {
         "displayName": "Ezekiel",
         "internalID": "Ezekiel",
@@ -547,7 +547,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Ezekiel.png",
         "tileX": 33,
         "tileY": 36
-    },
+	},
     {
         "displayName": "Faye",
         "internalID": "Faye",
@@ -556,7 +556,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Faye.png",
         "tileX": 13,
         "tileY": 27
-    },
+	},
     {
         "displayName": "Flor",
         "internalID": "Flor",
@@ -565,7 +565,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Flor.png",
         "tileX": 33,
         "tileY": 24
-    },
+	},
     {
         "displayName": "Freddie",
         "internalID": "Freddie",
@@ -574,7 +574,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Freddie.png",
         "tileX": 36,
         "tileY": 32
-    },
+	},
     {
         "displayName": "Ian",
         "internalID": "Ian",
@@ -583,7 +583,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Ian.png",
         "tileX": 16,
         "tileY": 22
-    },
+	},
     {
         "displayName": "Irene",
         "internalID": "Irene",
@@ -592,7 +592,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Irene.png",
         "tileX": 29,
         "tileY": 29
-    },
+	},
     {
         "displayName": "Jeric",
         "internalID": "Jeric",
@@ -601,7 +601,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Jeric.png",
         "tileX": 14,
         "tileY": 24
-    },
+	},
     {
         "displayName": "Keahi",
         "internalID": "Keahi",
@@ -610,7 +610,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Keahi.png",
         "tileX": 39,
         "tileY": 22
-    },
+	},
     {
         "displayName": "Kenneth",
         "internalID": "Kenneth",
@@ -619,7 +619,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Kenneth.png",
         "tileX": 32,
         "tileY": 31
-    },
+	},
     {
         "displayName": "Kiarra",
         "internalID": "Kiarra",
@@ -628,7 +628,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Kiarra.png",
         "tileX": 20,
         "tileY": 21
-    },
+	},
     {
         "displayName": "Lenny",
         "internalID": "Lenny",
@@ -637,7 +637,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Lenny.png",
         "tileX": 37,
         "tileY": 25
-    },
+	},
     {
         "displayName": "Lola",
         "internalID": "Lola",
@@ -646,7 +646,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Lola.png",
         "tileX": 37,
         "tileY": 32
-    },
+	},
     {
         "displayName": "Lorenzo",
         "internalID": "Lorenzo",
@@ -655,7 +655,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Lorenzo.png",
         "tileX": 42,
         "tileY": 32
-    },
+	},
     {
         "displayName": "Louie",
         "internalID": "Louie",
@@ -664,7 +664,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Louie.png",
         "tileX": 25,
         "tileY": 35
-    },
+	},
     {
         "displayName": "Maddie",
         "internalID": "Maddie",
@@ -673,7 +673,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Maddie.png",
         "tileX": 29,
         "tileY": 27
-    },
+	},
     {
         "displayName": "Maive",
         "internalID": "Maive",
@@ -682,7 +682,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Maive.png",
         "tileX": 23,
         "tileY": 34
-    },
+	},
     {
         "displayName": "Olga",
         "internalID": "Olga",
@@ -691,7 +691,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Olga.png",
         "tileX": 41,
         "tileY": 26
-    },
+	},
     {
         "displayName": "Paula",
         "internalID": "Paula",
@@ -700,7 +700,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Paula.png",
         "tileX": 12,
         "tileY": 25
-    },
+	},
     {
         "displayName": "Philip",
         "internalID": "Philip",
@@ -709,7 +709,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Philip.png",
         "tileX": 33,
         "tileY": 29
-    },
+	},
     {
         "displayName": "Pika",
         "internalID": "Pika",
@@ -718,7 +718,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Pika.png",
         "tileX": 34,
         "tileY": 35
-    },
+	},
     {
         "displayName": "Richard",
         "internalID": "Richard",
@@ -727,7 +727,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Richard.png",
         "tileX": 36,
         "tileY": 34
-    },
+	},
     {
         "displayName": "Sean",
         "internalID": "Sean",
@@ -736,7 +736,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Sean.png",
         "tileX": 39,
         "tileY": 36
-    },
+	},
     {
         "displayName": "Shanice",
         "internalID": "Shanice",
@@ -745,7 +745,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Shanice.png",
         "tileX": 40,
         "tileY": 32
-    },
+	},
     {
         "displayName": "Shiro",
         "internalID": "Shiro",
@@ -754,7 +754,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Shiro.png",
         "tileX": 35,
         "tileY": 28
-    },
+	},
     {
         "displayName": "Sonny",
         "internalID": "Sonny",
@@ -763,7 +763,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Sonny.png",
         "tileX": 24,
         "tileY": 33
-    },
+	},
     {
         "displayName": "Torts",
         "internalID": "Torts",
@@ -772,7 +772,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Torts.png",
         "tileX": 36,
         "tileY": 28
-    },
+	},
     {
         "displayName": "Trinnie",
         "internalID": "Trinnie",
@@ -781,7 +781,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Trinnie.png",
         "tileX": 38,
         "tileY": 23
-    },
+	},
     {
         "displayName": "Ysabelle",
         "internalID": "Ysabelle",
@@ -790,7 +790,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Ysabelle.png",
         "tileX": 27,
         "tileY": 22
-    },
+	},
     {
         "displayName": "Yuuma",
         "internalID": "Yuuma",
@@ -799,7 +799,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Yuuma.png",
         "tileX": 37,
         "tileY": 28
-    },
+	},
     {
         "displayName": "Aja",
         "internalID": "Aja",
@@ -808,7 +808,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Aja.png",
         "tileX": 22,
         "tileY": 64
-    },
+	},
     {
         "displayName": "Ann",
         "internalID": "Ann",
@@ -817,7 +817,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Ann.png",
         "tileX": 18,
         "tileY": 64
-    },
+	},
     {
         "displayName": "Cliff",
         "internalID": "Cliff",
@@ -826,7 +826,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Cliff.png",
         "tileX": 17,
         "tileY": 64
-    },
+	},
     {
         "displayName": "Doctor",
         "internalID": "Doctor",
@@ -835,7 +835,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Doctor.png",
         "tileX": 35,
         "tileY": 67
-    },
+	},
     {
         "displayName": "Elli",
         "internalID": "Elli",
@@ -844,7 +844,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Elli.png",
         "tileX": 35,
         "tileY": 68
-    },
+	},
     {
         "displayName": "Gray",
         "internalID": "Gray",
@@ -853,7 +853,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Gray.png",
         "tileX": 35,
         "tileY": 59
-    },
+	},
     {
         "displayName": "Kai",
         "internalID": "Kai",
@@ -862,7 +862,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Kai.png",
         "tileX": 24,
         "tileY": 74
-    },
+	},
     {
         "displayName": "Karen",
         "internalID": "Karen",
@@ -871,7 +871,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Karen.png",
         "tileX": 30,
         "tileY": 57
-    },
+	},
     {
         "displayName": "Marie",
         "internalID": "Marie",
@@ -880,7 +880,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Marie.png",
         "tileX": 34,
         "tileY": 59
-    },
+	},
     {
         "displayName": "Nami",
         "internalID": "Nami",
@@ -889,7 +889,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Nami.png",
         "tileX": 37,
         "tileY": 72
-    },
+	},
     {
         "displayName": "Popuri",
         "internalID": "Popuri",
@@ -898,7 +898,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Popuri.png",
         "tileX": 23,
         "tileY": 74
-    },
+	},
     {
         "displayName": "Rick",
         "internalID": "Rick",
@@ -907,7 +907,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Rick.png",
         "tileX": 31,
         "tileY": 57
-    },
+	},
     {
         "displayName": "Tate",
         "internalID": "Tate",
@@ -916,7 +916,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Tate.png",
         "tileX": 37,
         "tileY": 65
-    },
+	},
     {
         "displayName": "Sunny",
         "internalID": "Sunny",
@@ -925,7 +925,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Sunny.png",
         "tileX": 27,
         "tileY": 73
-    },
+	},
     {
         "displayName": "Caleb",
         "internalID": "Caleb",
@@ -934,7 +934,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Caleb.png",
         "tileX": 41,
         "tileY": 38
-    },
+	},
     {
         "displayName": "Thurstan",
         "internalID": "Thurstan",
@@ -943,7 +943,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Thurstan.png",
         "tileX": 36,
         "tileY": 62
-    },
+	},
     {
         "displayName": "Amina",
         "internalID": "AminaSBV",
@@ -952,7 +952,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/AminaSBV.png",
         "tileX": 64,
         "tileY": 64
-    },
+	},
     {
         "displayName": "Ari",
         "internalID": "AriSBV",
@@ -961,7 +961,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/AriSBV.png",
         "tileX": 65,
         "tileY": 70
-    },
+	},
     {
         "displayName": "Blake",
         "internalID": "BlakeSBV",
@@ -970,7 +970,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/BlakeSBV.png",
         "tileX": 67,
         "tileY": 65
-    },
+	},
     {
         "displayName": "Derya",
         "internalID": "DeryaSBV",
@@ -979,7 +979,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/DeryaSBV.png",
         "tileX": 59,
         "tileY": 66
-    },
+	},
     {
         "displayName": "Diala",
         "internalID": "DialaSBV",
@@ -988,7 +988,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/DialaSBV.png",
         "tileX": 59,
         "tileY": 67
-    },
+	},
     {
         "displayName": "Elias",
         "internalID": "EliasSBV",
@@ -997,7 +997,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/EliasSBV.png",
         "tileX": 57,
         "tileY": 73
-    },
+	},
     {
         "displayName": "Ezra",
         "internalID": "EzraSBV",
@@ -1006,7 +1006,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/EzraSBV.png",
         "tileX": 61,
         "tileY": 70
-    },
+	},
     {
         "displayName": "Iman",
         "internalID": "ImanSBV",
@@ -1015,7 +1015,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/ImanSBV.png",
         "tileX": 62,
         "tileY": 70
-    },
+	},
     {
         "displayName": "Jumana",
         "internalID": "JumanaSBV",
@@ -1024,7 +1024,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/JumanaSBV.png",
         "tileX": 69,
         "tileY": 71
-    },
+	},
     {
         "displayName": "Lyenne",
         "internalID": "LyenneSBV",
@@ -1033,7 +1033,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/LyenneSBV.png",
         "tileX": 66,
         "tileY": 65
-    },
+	},
     {
         "displayName": "Maia",
         "internalID": "MaiaSBV",
@@ -1042,7 +1042,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/MaiaSBV.png",
         "tileX": 56,
         "tileY": 73
-    },
+	},
     {
         "displayName": "Miyoung",
         "internalID": "MiyoungSBV",
@@ -1051,7 +1051,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/MiyoungSBV.png",
         "tileX": 70,
         "tileY": 72
-    },
+	},
     {
         "displayName": "Ophelia",
         "internalID": "OpheliaSBV",
@@ -1060,7 +1060,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/OpheliaSBV.png",
         "tileX": 68,
         "tileY": 69
-    },
+	},
     {
         "displayName": "Silas",
         "internalID": "SilasSBV",
@@ -1069,7 +1069,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/SilasSBV.png",
         "tileX": 68,
         "tileY": 72
-    },
+	},
     {
         "displayName": "Tea",
         "internalID": "Tea",
@@ -1078,7 +1078,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Tea.png",
         "tileX": 16,
         "tileY": 72
-    },
+	},
     {
         "displayName": "Dylan",
         "internalID": "Nova.Dylan",
@@ -1087,7 +1087,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Nova.Dylan.png",
         "tileX": 38,
         "tileY": 75
-    },
+	},
     {
         "displayName": "Eli",
         "internalID": "Nova.Eli",
@@ -1096,7 +1096,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Nova.Eli.png",
         "tileX": 38,
         "tileY": 74
-    },
+	},
     {
         "displayName": "Rodney",
         "internalID": "RodneyOBrien",
@@ -1105,7 +1105,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/RodneyOBrien.png",
         "tileX": 38,
         "tileY": 72
-    },
+	},
     {
         "displayName": "Miku",
         "internalID": "Miku",
@@ -1114,7 +1114,7 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/Miku.png",
         "tileX": 23,
         "tileY": 61
-    },
+	},
     {
         "displayName": "Lumen",
         "internalID": "vickylchq.Lumen_Lumen",
@@ -1123,287 +1123,295 @@ const eggfestival_main_2_vanilla = [
         "image": "/sprites/vickylchq.Lumen_Lumen.png",
         "tileX": 21,
         "tileY": 62
-    },
-    
-        {
-            "displayName": "Harvey",
-            "internalID": "Harvey",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Harvey.png",
-            "tileX": 28,
-            "tileY": 59
-        },
-        {
-            "displayName": "Linus",
-            "internalID": "Linus",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Linus.png",
-            "tileX": 37,
-            "tileY": 59
-        },
-        {
-            "displayName": "Gus",
-            "internalID": "Gus",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Gus.png",
-            "tileX": 30,
-            "tileY": 60
-        },
-        {
-            "displayName": "Clint",
-            "internalID": "Clint",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Clint.png",
-            "tileX": 34,
-            "tileY": 60
-        },
-        {
-            "displayName": "Marlon",
-            "internalID": "Marlon",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Marlon.png",
-            "tileX": 23,
-            "tileY": 61
-        },
-        {
-            "displayName": "Willy",
-            "internalID": "Willy",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Willy.png",
-            "tileX": 30,
-            "tileY": 61
-        },
-        {
-            "displayName": "Caroline",
-            "internalID": "Caroline",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Caroline.png",
-            "tileX": 26,
-            "tileY": 62
-        },
-        {
-            "displayName": "Pierre",
-            "internalID": "Pierre",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Pierre.png",
-            "tileX": 27,
-            "tileY": 62
-        },
-        {
-            "displayName": "Kent",
-            "internalID": "Kent",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Kent.png",
-            "tileX": 32,
-            "tileY": 62
-        },
-        {
-            "displayName": "Jodi",
-            "internalID": "Jodi",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Jodi.png",
-            "tileX": 33,
-            "tileY": 62
-        },
-        {
-            "displayName": "Marnie",
-            "internalID": "Marnie",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Marnie.png",
-            "tileX": 28,
-            "tileY": 64
-        },
-        {
-            "displayName": "Shane",
-            "internalID": "Shane",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Shane.png",
-            "tileX": 29,
-            "tileY": 64
-        },
-        {
-            "displayName": "Robin",
-            "internalID": "Robin",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Robin.png",
-            "tileX": 30,
-            "tileY": 64
-        },
-        {
-            "displayName": "Demetrius",
-            "internalID": "Demetrius",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Demetrius.png",
-            "tileX": 31,
-            "tileY": 64
-        },
-        {
-            "displayName": "Leah",
-            "internalID": "Leah",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Leah.png",
-            "tileX": 24,
-            "tileY": 65
-        },
-        {
-            "displayName": "Haley",
-            "internalID": "Haley",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Haley.png",
-            "tileX": 35,
-            "tileY": 65
-        },
-        {
-            "displayName": "Emily",
-            "internalID": "Emily",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Emily.png",
-            "tileX": 36,
-            "tileY": 66
-        },
-        {
-            "displayName": "Lewis",
-            "internalID": "Lewis",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Lewis.png",
-            "tileX": 29,
-            "tileY": 67
-        },
-        {
-            "displayName": "Pam",
-            "internalID": "Pam",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Pam.png",
-            "tileX": 35,
-            "tileY": 67
-        },
-        {
-            "displayName": "Alex",
-            "internalID": "Alex",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Alex.png",
-            "tileX": 24,
-            "tileY": 68
-        },
-        {
-            "displayName": "Penny",
-            "internalID": "Penny",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Penny.png",
-            "tileX": 35,
-            "tileY": 68
-        },
-        {
-            "displayName": "Abigail",
-            "internalID": "Abigail",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Abigail.png",
-            "tileX": 27,
-            "tileY": 69
-        },
-        {
-            "displayName": "Maru",
-            "internalID": "Maru",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Maru.png",
-            "tileX": 32,
-            "tileY": 69
-        },
-        {
-            "displayName": "Evelyn",
-            "internalID": "Evelyn",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Evelyn.png",
-            "tileX": 23,
-            "tileY": 70
-        },
-        {
-            "displayName": "George",
-            "internalID": "George",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/George.png",
-            "tileX": 24,
-            "tileY": 70
-        },
-        {
-            "displayName": "Leo",
-            "internalID": "Leo",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Leo.png",
-            "tileX": 26,
-            "tileY": 70
-        },
-        {
-            "displayName": "Sam",
-            "internalID": "Sam",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Sam.png",
-            "tileX": 28,
-            "tileY": 70
-        },
-        {
-            "displayName": "Vincent",
-            "internalID": "Vincent",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Vincent.png",
-            "tileX": 30,
-            "tileY": 70
-        },
-        {
-            "displayName": "Jas",
-            "internalID": "Jas",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Jas.png",
-            "tileX": 31,
-            "tileY": 70
-        },
-        {
-            "displayName": "Sebastian",
-            "internalID": "Sebastian",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Sebastian.png",
-            "tileX": 36,
-            "tileY": 71
-        },
-        {
-            "displayName": "Elliott",
-            "internalID": "Elliott",
-            "modUniqueID": "Vanilla",
-            "modDisplayName": "Vanilla",
-            "image": "/sprites/Elliott.png",
-            "tileX": 32,
-            "tileY": 72
-        }
+	},
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 37,
+        "tileY": 68
+	},
+	{
+		"displayName": "Harvey",
+		"internalID": "Harvey",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Harvey.png",
+		"tileX": 28,
+		"tileY": 59
+	},
+	{
+		"displayName": "Linus",
+		"internalID": "Linus",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Linus.png",
+		"tileX": 37,
+		"tileY": 59
+	},
+	{
+		"displayName": "Gus",
+		"internalID": "Gus",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Gus.png",
+		"tileX": 30,
+		"tileY": 60
+	},
+	{
+		"displayName": "Clint",
+		"internalID": "Clint",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Clint.png",
+		"tileX": 34,
+		"tileY": 60
+	},
+	{
+		"displayName": "Marlon",
+		"internalID": "Marlon",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Marlon.png",
+		"tileX": 23,
+		"tileY": 61
+	},
+	{
+		"displayName": "Willy",
+		"internalID": "Willy",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Willy.png",
+		"tileX": 30,
+		"tileY": 61
+	},
+	{
+		"displayName": "Caroline",
+		"internalID": "Caroline",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Caroline.png",
+		"tileX": 26,
+		"tileY": 62
+	},
+	{
+		"displayName": "Pierre",
+		"internalID": "Pierre",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Pierre.png",
+		"tileX": 27,
+		"tileY": 62
+	},
+	{
+		"displayName": "Kent",
+		"internalID": "Kent",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Kent.png",
+		"tileX": 32,
+		"tileY": 62
+	},
+	{
+		"displayName": "Jodi",
+		"internalID": "Jodi",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Jodi.png",
+		"tileX": 33,
+		"tileY": 62
+	},
+	{
+		"displayName": "Marnie",
+		"internalID": "Marnie",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Marnie.png",
+		"tileX": 28,
+		"tileY": 64
+	},
+	{
+		"displayName": "Shane",
+		"internalID": "Shane",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Shane.png",
+		"tileX": 29,
+		"tileY": 64
+	},
+	{
+		"displayName": "Robin",
+		"internalID": "Robin",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Robin.png",
+		"tileX": 30,
+		"tileY": 64
+	},
+	{
+		"displayName": "Demetrius",
+		"internalID": "Demetrius",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Demetrius.png",
+		"tileX": 31,
+		"tileY": 64
+	},
+	{
+		"displayName": "Leah",
+		"internalID": "Leah",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Leah.png",
+		"tileX": 24,
+		"tileY": 65
+	},
+	{
+		"displayName": "Haley",
+		"internalID": "Haley",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Haley.png",
+		"tileX": 35,
+		"tileY": 65
+	},
+	{
+		"displayName": "Emily",
+		"internalID": "Emily",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Emily.png",
+		"tileX": 36,
+		"tileY": 66
+	},
+	{
+		"displayName": "Lewis",
+		"internalID": "Lewis",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Lewis.png",
+		"tileX": 29,
+		"tileY": 67
+	},
+	{
+		"displayName": "Pam",
+		"internalID": "Pam",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Pam.png",
+		"tileX": 35,
+		"tileY": 67
+	},
+	{
+		"displayName": "Alex",
+		"internalID": "Alex",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Alex.png",
+		"tileX": 24,
+		"tileY": 68
+	},
+	{
+		"displayName": "Penny",
+		"internalID": "Penny",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Penny.png",
+		"tileX": 35,
+		"tileY": 68
+	},
+	{
+		"displayName": "Abigail",
+		"internalID": "Abigail",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Abigail.png",
+		"tileX": 27,
+		"tileY": 69
+	},
+	{
+		"displayName": "Maru",
+		"internalID": "Maru",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Maru.png",
+		"tileX": 32,
+		"tileY": 69
+	},
+	{
+		"displayName": "Evelyn",
+		"internalID": "Evelyn",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Evelyn.png",
+		"tileX": 23,
+		"tileY": 70
+	},
+	{
+		"displayName": "George",
+		"internalID": "George",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/George.png",
+		"tileX": 24,
+		"tileY": 70
+	},
+	{
+		"displayName": "Leo",
+		"internalID": "Leo",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Leo.png",
+		"tileX": 26,
+		"tileY": 70
+	},
+	{
+		"displayName": "Sam",
+		"internalID": "Sam",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Sam.png",
+		"tileX": 28,
+		"tileY": 70
+	},
+	{
+		"displayName": "Vincent",
+		"internalID": "Vincent",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Vincent.png",
+		"tileX": 30,
+		"tileY": 70
+	},
+	{
+		"displayName": "Jas",
+		"internalID": "Jas",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Jas.png",
+		"tileX": 31,
+		"tileY": 70
+	},
+	{
+		"displayName": "Sebastian",
+		"internalID": "Sebastian",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Sebastian.png",
+		"tileX": 36,
+		"tileY": 71
+	},
+	{
+		"displayName": "Elliott",
+		"internalID": "Elliott",
+		"modUniqueID": "Vanilla",
+		"modDisplayName": "Vanilla",
+		"image": "/sprites/Elliott.png",
+		"tileX": 32,
+		"tileY": 72
+	}
     
 ]
 export default eggfestival_main_2_vanilla

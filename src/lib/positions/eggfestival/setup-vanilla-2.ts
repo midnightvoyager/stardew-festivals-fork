@@ -80,6 +80,15 @@ const eggfestival_setup_2_vanilla = [
         "tileX": 34,
         "tileY": 76
     },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 43,
+        "tileY": 72
+    },
     {
         "displayName": "Arnell",
         "internalID": "Arnell",

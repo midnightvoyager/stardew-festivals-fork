@@ -17,6 +17,15 @@ const moonlightjellies_main_2_vanilla = [
         "tileX": 64,
         "tileY": 16
     },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 44,
+        "tileY": 36
+    },
     {
         "displayName": "Nora",
         "internalID": "Nora",

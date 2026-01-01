@@ -74,6 +74,15 @@ const luau_main_2_sve = supplement([
         "tileX": 32,
         "tileY": 14
     },
+	{
+        "displayName": "Constance",
+        "internalID": "VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger",
+        "modUniqueID": "VoidWitchCult.CP.TheFishmongerNPC",
+        "modDisplayName": "The Fishmonger - Custom NPC",
+        "image": "/sprites/VoidWitchCult.CP.TheFishmongerNPC_TheFishmonger.png",
+        "tileX": 28,
+        "tileY": 9
+    },
     {
         "displayName": "Mora",
         "internalID": "APTMora",
