@@ -2015,6 +2015,15 @@ const feastofthewinterstar_setup_1_vanilla = [
             "tileX": 33,
             "tileY": 57
         }
+		{
+			"displayName": "Sheriff Bill",
+			"internalID": "MV.Municipal_SheriffBill",
+			"modUniqueID": "MV.Municipal",
+			"modDisplayName": "Pelican Town Municipal",
+			"image": "/sprites/MV.Municipal_SheriffBill.png",
+			"tileX": 35,
+			"tileY": 57
+		},
     , 
         {
             "displayName": "Marnie",
