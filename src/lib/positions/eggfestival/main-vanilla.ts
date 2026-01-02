@@ -1783,15 +1783,6 @@ const eggfestival_main_1_vanilla = [
         "tileY": 62
     },
     {
-        "displayName": "Elliott",
-        "internalID": "Elliott",
-        "modUniqueID": "Vanilla",
-        "modDisplayName": "Vanilla",
-        "image": "/sprites/Elliott.png",
-        "tileX": 26,
-        "tileY": 62
-    },
-    {
         "displayName": "Emily",
         "internalID": "Emily",
         "modUniqueID": "Vanilla",
