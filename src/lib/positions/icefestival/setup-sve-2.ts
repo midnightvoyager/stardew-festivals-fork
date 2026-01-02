@@ -1109,6 +1109,7 @@ const icefestival_setup_2_sve = supplement([
             "tileX": 85,
             "tileY": 38
         },
+        {
             "displayName": "Clint",
             "internalID": "Clint",
             "modUniqueID": "Vanilla",

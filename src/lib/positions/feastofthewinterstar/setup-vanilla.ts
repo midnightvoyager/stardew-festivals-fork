@@ -2014,7 +2014,7 @@ const feastofthewinterstar_setup_1_vanilla = [
             "image": "/sprites/Masahi.png",
             "tileX": 33,
             "tileY": 57
-        }
+        },
 		{
 			"displayName": "Sheriff Bill",
 			"internalID": "MV.Municipal_SheriffBill",
@@ -2024,7 +2024,6 @@ const feastofthewinterstar_setup_1_vanilla = [
 			"tileX": 35,
 			"tileY": 57
 		},
-    , 
         {
             "displayName": "Marnie",
             "internalID": "Marnie",
