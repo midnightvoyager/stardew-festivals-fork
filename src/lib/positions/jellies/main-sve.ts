@@ -1097,7 +1097,7 @@ const moonlightjellies_main_1_sve = supplement([
         "modUniqueID": "MV.Municipal",
         "modDisplayName": "Pelican Town Municipal",
         "image": "/sprites/MV.Municipal_SheriffBill.png",
-        "tileX": 87,
+        "tileX": 85,
         "tileY": 5
     },
         {
